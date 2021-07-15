@@ -17,4 +17,8 @@ public class makeString {
             return answer;
         }
       }
+
+      public static void  main(String[] args){
+          
 }
+

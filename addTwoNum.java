@@ -2,8 +2,6 @@ import java.util.*;
 //프로그래머스
 public class addTwoNum {
     
-    
-
     class Solution {
         public int[] solution(int[] numbers) {
             ArrayList<Integer> list = new ArrayList<Integer>();
