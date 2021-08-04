@@ -28,6 +28,7 @@
 
 //2번 방법
 // BufferedReader 은 문자열을 반환하기 때문에 Integer.parseInt() 메소드를 통해 String 에서 int 형으로 변환
+//시간 80ms 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.io.IOException;
